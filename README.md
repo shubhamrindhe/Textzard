@@ -1,6 +1,6 @@
 # Bit-Beast
 
-A Text-Editor for ~~Humans~~ **Everyone** !
+A **Text-Editor** for ~~Humans~~ Everyone !
 
 :pencil:
 
