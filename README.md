@@ -1,4 +1,4 @@
-# Bit-Beast
+# T-Tex
 
 A **Text-Editor** for ~~Humans~~ Everyone !
 
