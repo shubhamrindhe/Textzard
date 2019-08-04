@@ -1,4 +1,4 @@
-# T-Tex
+# Textzard
 
 A **Text-Editor** for ~~Humans~~ Everyone !
 
